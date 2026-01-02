@@ -220,7 +220,7 @@ make prod-apply      # Deploy production manually
 - Visual separators
 - Step-by-step instructions
 
-## 🎯 Interview Demonstration Points
+## 🎯 Demonstration Points
 
 ### Technical Skills
 1. **Infrastructure as Code**: Terraform modules, environments, variables
