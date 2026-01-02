@@ -1,6 +1,7 @@
-I've built a production-ready infrastructure and CI/CD pipeline for your Vida interview. Here's what you're getting:
+I've built a production-ready infrastructure and CI/CD pipeline for Vida-health. Here's what you're getting:
 📦 Complete Package (2,164 lines of code & docs)
 Download the archive above and extract it to your forked repo. It contains everything you need.
+
 🏗️ What's Included
 1. Terraform Infrastructure (GCP Cloud Run)
 
